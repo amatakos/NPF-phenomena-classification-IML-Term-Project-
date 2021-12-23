@@ -12,3 +12,5 @@ Besides the apparent motivation for completing the course, our team intended to 
 Our goal was to complete all of the project's tasks to the best of our capabilities, namely the challenge submission, the presentation and the report. At the same time, our goals for the project were inherently tied to our goals for the course, which were in-depth understanding of the various techniques and methods spanning all of the typical machine learning pipeline, such as feature selection, model selection and cross-validation.  Finally, a common goal we all set from the beginning, was to do our best through teamwork, respecting and enabling all members to contribute freely. 
 
 ### For more information about the project, please read the report.
+
+A. Matakos, T. Blauberg, R. Rasmussen
