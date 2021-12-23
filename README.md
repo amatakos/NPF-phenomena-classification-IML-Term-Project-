@@ -13,4 +13,4 @@ Our goal was to complete all of the project's tasks to the best of our capabilit
 
 ### For more information about the project, please read the report.
 
-A. Matakos, T. Blauberg, R. Rasmussen
+Group 69: A. Matakos, T. Blauberg, R. Rasmussen
